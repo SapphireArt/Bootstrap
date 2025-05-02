@@ -1,0 +1,53 @@
+.btn-primary {
+    background-color: #f78fb3;
+    color: white;
+    border: none;
+  }
+  
+  .btn-primary:hover {
+    background-color: #ff1d6c;
+    color: white;
+    
+  }
+
+  .btn-primary:visited {
+    background-color: #f78fb3;
+    color: white;
+    border: none;
+    
+  }
+  
+  .btn-secondary {
+    background-color: #da8ff7;
+    color: white;
+    border: none;
+  }
+  
+  .btn-secondary:hover {
+    background-color: #833ba0;
+    color: white;
+  }
+
+  .btn-secondary:visited {
+    background-color: #da8ff7;
+    color: white;
+    border: none;
+  }
+
+  .girly-header {
+  background-color: #f78fb3;
+}
+
+.navbar-girly {
+  background-color: #ffe0f0;
+}
+a {
+  color: #f78fb3;
+  text-decoration: none;
+}
+
+a:hover,
+a:focus {
+  color: #fa86c4;
+  text-decoration: underline;
+}
